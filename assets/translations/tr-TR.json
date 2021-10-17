@@ -1,0 +1,10 @@
+{
+  "app_name": "Çoklu Dil Örneği",
+  "app_info": "Bu uygulama Flutter ile çoklu dil desteğini gösterir",
+  "homepage_appbar_title": "Anasayfa",
+  "homepage_body" : "Şuanda anasayfadasınız.",
+  "change_language_btn": "Dil Değiştir",
+  "second_page_btn": "İkinci Sayfa",
+  "second_page_appbar_title": "İkinci Sayfa",
+  "second_page_info" : "Şimdi ikinci sayfadasınız."
+}

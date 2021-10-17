@@ -1,0 +1,10 @@
+{
+  "app_name": "Multi Language Example",
+  "app_info": "This app includes multi language example with Flutter",
+  "homepage_appbar_title": "HomePage",
+  "homepage_body" : "Now you are on the home page.",
+  "change_language_btn": "Change Language",
+  "second_page_btn": "Second Page",
+  "second_page_appbar_title": "Second Page",
+  "second_page_info" : "Now you are on the second page"
+}
