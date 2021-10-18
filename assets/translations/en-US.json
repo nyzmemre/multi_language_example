@@ -6,5 +6,6 @@
   "change_language_btn": "Change Language",
   "second_page_btn": "Second Page",
   "second_page_appbar_title": "Second Page",
-  "second_page_info" : "Now you are on the second page"
+  "second_page_info" : "Now you are on the second page",
+  "choose_language_text" : "Please choose your language"
 }

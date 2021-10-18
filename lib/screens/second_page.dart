@@ -9,8 +9,8 @@ class SecondPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    LanguageChange controller = context.read<LanguageChange>();
 
+    LanguageChange controller = context.read<LanguageChange>();
     return Scaffold(
       appBar: secondPageAppbar(),
       body: Center(
