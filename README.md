@@ -1,3 +1,7 @@
-multi language example with provider
+multi language example with provider.
 
-![multi_lang_exam](https://user-images.githubusercontent.com/58377174/137802232-a583604c-3651-491e-a2d5-f4f60b889656.gif)
+dependencies: 
+  easy_localization: ^3.0.0
+  provider: ^6.0.1
+
+![multi_lang_exam](https://user-images.githubusercontent.com/58377174/137802471-b240be85-43f3-4fe5-b2c7-914f43a24863.gif)
